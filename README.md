@@ -13,7 +13,7 @@ And then run `:PlugInstall`.
 
 ## Usage
 Open up a file with extension `.par`, and you should see proper syntax
-highlighting. If there any issues, feel free to [report
+highlighting. If there are any issues, feel free to [report
 them](https://github.com/karthikv/par/issues/new).
 
 ## License
